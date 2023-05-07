@@ -2,7 +2,7 @@
 Structural Design Patterns excercises: Adapter to Decorator
 
 To get the project:
-1. Following the steps in: https://github.com/microsoft/vcpkg/#getting-started
+Following the steps in: https://github.com/microsoft/vcpkg/#getting-started
 (And also from here: https://github.com/mrtazz/restclient-cpp)
 * First, download and bootstrap vcpkg itself; it can be installed anywhere, and installing it globally for Visual Studio projects.
   We recommend somewhere like C:\src\vcpkg or C:\dev\vcpkg, since otherwise you may run into path issues for some port build systems:
